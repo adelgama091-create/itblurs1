@@ -10,16 +10,11 @@ AI-powered Chrome extension that detects and blurs inappropriate content in real
 -  Zero data sent to servers
 -  Fully private and local
 
-## Installation
-
-### From Source
-
-1. Clone this repository
-2. Open Chrome and go to `chrome://extensions`
-3. Enable "Developer mode" (top right)
-4. Click "Load unpacked"
-5. Select the `itblurs1` folder
-6. Extension is now installed!
+## installation
+-open chrome
+-open extensions
+-search for itblurs
+-download it
 
 ## Usage
 
